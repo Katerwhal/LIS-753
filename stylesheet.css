@@ -1,0 +1,30 @@
+h1 {
+  background: blue;
+  color: white;
+  text-align: center;
+  font-family: arial;
+}
+
+p {
+  font-family: calibri;
+  color: #855FFA;
+  padding: 12px
+}
+
+figure {
+background: gray;
+  padding: 15px;
+  max-width: 300px;
+  float: right;
+}
+
+figcaption {
+  color: yellow;
+}
+
+p img {
+  float: left;
+  background: #855FFA;
+  padding: 15px;
+  margin-right: 15px;
+}
