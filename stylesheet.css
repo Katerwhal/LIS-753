@@ -34,6 +34,7 @@ nav ul {
   list-style-type: square;
   padding: 10px;
   border: 1px dotted darkblue;
+  margin-left: 15px;
   max-width: 200px;
   max-height: 100px;
 }
