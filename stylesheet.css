@@ -28,3 +28,10 @@ p img {
   padding: 15px;
   margin-right: 15px;
 }
+
+nav ul {
+  background-color: lightblue;
+  list-style-type: square;
+  padding: 10px;
+  border: 1px dotted darkblue;
+}
