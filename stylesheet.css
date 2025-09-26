@@ -21,6 +21,7 @@ background: gray;
 
 figcaption {
   color: blue;
+  font-size: 16pt;
 }
 
 p img {
@@ -36,6 +37,7 @@ nav ul {
   padding: 20px;
   border: 1px dotted darkblue;
   overflow:hidden;
+  text-align: center;
 }
 
 ul li {
