@@ -33,8 +33,9 @@ p img {
 nav ul {
   background-color: lightblue;
   list-style-type: none;
-  padding: 20px;
-  border: 1px dotted darkblue;
+  margin: 0;
+  padding: 0;
+  border: 1px 0px 1px 0px solid darkblue;
   overflow:hidden;
 }
 
