@@ -12,14 +12,14 @@ p {
 }
 
 figure {
-background: gray;
+background: #4e17f0;
   padding: 15px;
   max-width: 300px;
   float: right;
 }
 
 figcaption {
-  color: blue;
+  color: white;
   font-size: 16pt;
 }
 
@@ -36,7 +36,6 @@ nav ul {
   padding: 20px;
   border: 1px dotted darkblue;
   overflow:hidden;
-  text-align: center;
 }
 
 ul li {
