@@ -38,6 +38,8 @@ nav ul {
   border: solid darkblue;
   border-width: 5px 0px;
   overflow:hidden;
+  display: flex;
+  justify-content: center;
 }
 
 ul li {
