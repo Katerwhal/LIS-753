@@ -35,7 +35,7 @@ nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  border: 3px 0px 3px 0px solid darkblue;
+  border-style: 3px 0px 3px 0px solid darkblue;
   overflow:hidden;
 }
 
