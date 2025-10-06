@@ -81,10 +81,6 @@ nav ul li a:hover {
   background-color: #00b4c5;
 }
 
-nav ul li a:link {
-  color:#314ff0;
-}
-
 nav ul li a:visited {
   color: darkblue;
 }
