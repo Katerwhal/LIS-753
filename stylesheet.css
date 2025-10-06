@@ -88,11 +88,11 @@ ul li a {
   text-decoration: none;
 }
 
-head nav ul li a:hover {
+nav ul li a:hover {
   background-color: #00b4c5;
 }
 
-head nav {
+nav {
   background-color: lightblue;
   border-top: 2px solid #0b78e6;
   border-bottom: 2px solid #0b78e6;
