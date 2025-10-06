@@ -41,9 +41,6 @@ p {
 }
 
 figure {
-  background: #00b4c5;
-  padding: 15px;
-  max-width: 300px;
   float: right;
 }
 
@@ -53,6 +50,9 @@ figcaption {
 }
 
 img.main-image {
+  background: #00b4c5;
+  padding: 15px;
+  max-width: 300px;
 float: right;
 }
 
