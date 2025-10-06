@@ -89,11 +89,11 @@ ul li a {
   text-decoration: none;
 }
 
-head ul li a:hover {
+ul li a:hover {
   background-color: #00b4c5;
 }
 
-head nav ul {
+nav ul {
   border: solid #0b78e6;
   border-width: 3px 0px;
 }
@@ -104,7 +104,8 @@ footer nav {
 
 footer#page-footer {
   text-align: center;
-
+  padding: 32px 0;
+  margin-top: 64px;
 }
 
 footer nav ul li a:hover {
