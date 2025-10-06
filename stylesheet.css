@@ -18,16 +18,19 @@ h1#article-title {
   font-size: 20pt;
   color:#0b78e6;
   text-align: left;
+  padding: 12px;
 }
 
 h2.article-section {
   font-size: 14pt;
   font-weight: 800;
+  color:#0b78e6;
+  padding: 12px;
 }
 p {
   font-family: calibri;
   color: #0b78e6;
-  padding: 12px
+  padding: 12px;
 }
 
 .container {
@@ -68,10 +71,7 @@ figure.section-image {
 }
 
 nav ul {
-  background-color: lightblue;
   list-style-type: none;
-  margin: 0;
-  padding: 0;
   overflow:hidden;
   display: flex;
   justify-content: center;
@@ -93,9 +93,10 @@ ul li a:hover {
   background-color: #00b4c5;
 }
 
-nav ul {
-  border: solid #0b78e6;
-  border-width: 3px 0px;
+head nav ul {
+  background-color: lightblue;
+  border-top: 2px solid #0b78e6;
+  border-bottom: 2px solid #0b78e6
 }
 
 footer nav {
@@ -106,6 +107,12 @@ footer#page-footer {
   text-align: center;
   padding: 32px 0;
   margin-top: 64px;
+  background-color: #0b78e6;
+  color:white;
+}
+
+footer nav ul li a{
+  color:white;
 }
 
 footer nav ul li a:hover {
