@@ -67,7 +67,7 @@ figure.section-image {
   margin-right: 15px;
 }
 
-head nav ul {
+nav ul {
   background-color: lightblue;
   list-style-type: none;
   margin: 0;
@@ -79,11 +79,11 @@ head nav ul {
   justify-content: center;
 }
 
-head nav ul li {
+ul li {
   float:left;
 }
 
-head nav ul li a {
+ul li a {
   display:block;
   color: #0b78e6;
   text-align: center;
@@ -91,7 +91,7 @@ head nav ul li a {
   text-decoration: none;
 }
 
-head nav ul li a:hover {
+ul li a:hover {
   background-color: #00b4c5;
 }
 
@@ -100,13 +100,6 @@ footer#page-footer {
   color: white;
   justify-content: center;
 }
-
-footer#page-footer p {
-  background-color: #314ff0;
-  color: white;
-  justify-content: center;
-}
-
 footer#page-footer nav {
   list-style-type: none;
   margin: 0;
