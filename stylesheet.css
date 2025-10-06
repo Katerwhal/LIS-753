@@ -77,12 +77,8 @@ ul li a {
   text-decoration: none;
 }
 
-nav ul li a:hover {
+header nav ul li a:hover {
   background-color: #00b4c5;
-}
-
-header nav ul li a:visited {
-  color: darkblue;
 }
 
 nav {
@@ -114,6 +110,6 @@ footer nav ul li a{
 }
 
 footer nav ul li a:hover {
-  background-color: #314ff0;
+  
   text-decoration: underline;
 }
