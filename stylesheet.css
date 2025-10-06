@@ -41,6 +41,9 @@ p {
 }
 
 figure {
+  background: #00b4c5;
+  padding: 15px;
+  max-width: 300px;
   float: right;
 }
 
@@ -50,10 +53,9 @@ figcaption {
 }
 
 img.main-image {
-  background: #00b4c5;
+  float: right;
   padding: 15px;
-  max-width: 300px;
-float: right;
+  margin-right: 15px;
 }
 
 img.section-image {
@@ -87,8 +89,8 @@ nav ul li a:hover {
 
 nav {
   background-color: lightblue;
-  border-top: 2px solid #0b78e6;
-  border-bottom: 2px solid #0b78e6;
+  border-top: 2px solid #314ff0;
+  border-bottom: 2px solid #314ff0;
   color:white;
 }
 
