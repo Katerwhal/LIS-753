@@ -2,25 +2,30 @@ a#skip-link:hover {
   color:#00b4c5
 }
 
-h1 {
-  background: #0b78e6;
+h1#main-title {
+  font-weight: 600;
+  font-size: large;
+  background: #314ff0;
   color: white;
   text-align: center;
   font-family: arial;
 }
 
-h1#main-title {
-  font-weight: 600;
-  font-size: large;
-}
-
 h1#article-title {
+  background: white;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 800;
   font-size: medium;
   color:#0b78e6;
   text-align: left;
+  margin-top: 10px;
 }
 
+h2.article-section {
+  font-size: small;
+  font-weight: 800;
+  margin-top: 10px;
+}
 p {
   font-family: calibri;
   color: #0b78e6;
@@ -57,7 +62,7 @@ nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  border: solid darkblue;
+  border: solid #0b78e6;
   border-width: 3px 0px;
   overflow:hidden;
   display: flex;
@@ -70,7 +75,7 @@ ul li {
 
 ul li a {
   display:block;
-  color: darkblue;
+  color: #0b78e6;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -80,9 +85,12 @@ ul li a:hover {
   background-color: #00b4c5;
 }
 
-footer nav {
-  background-color: #0b78e6;
+footer {
+  background-color: #314ff0;
   color: white;
+  justify-content: center;
+}
+footer nav {
   list-style-type: none;
   margin: 0;
   padding: 10;
@@ -91,6 +99,9 @@ footer nav {
   justify-content: center;
 }
 
+footer nav ul {
+  background-color: #314ff0;
+}
 footer nav ul li a:hover {
   text-decoration: underline;
 }
