@@ -58,12 +58,12 @@ p img {
   margin-right: 15px;
 }
 
-figure.main-image {
+img.main-image {
   background: white;
   max-width: 96%;
 }
 
-figure.section-image {
+img.section-image {
   float: left;
   background: #00b4c5;
   padding: 15px;
