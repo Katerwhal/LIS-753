@@ -50,7 +50,7 @@ figcaption {
   font-size: 16pt;
 }
 
-p img {
+figure img {
   float: left;
   background: #00b4c5;
   padding: 15px;
