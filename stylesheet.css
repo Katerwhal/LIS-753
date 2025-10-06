@@ -107,6 +107,10 @@ footer#page-footer {
   color:white;
 }
 
+footer p {
+  color: white;
+}
+
 footer nav ul li a{
   color:white;
 }
