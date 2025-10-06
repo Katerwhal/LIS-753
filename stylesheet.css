@@ -88,18 +88,15 @@ ul li a {
   text-decoration: none;
 }
 
-head ul li a:hover {
+header ul li a:hover {
   background-color: #00b4c5;
 }
 
-head nav ul {
+header nav ul {
   background-color: lightblue;
   border-top: 2px solid #0b78e6;
-  border-bottom: 2px solid #0b78e6
-}
-
-footer nav {
-
+  border-bottom: 2px solid #0b78e6;
+  color:white;
 }
 
 footer#page-footer {
