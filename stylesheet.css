@@ -50,7 +50,19 @@ figcaption {
   font-size: 16pt;
 }
 
-figure img {
+p img {
+  float: left;
+  background: #00b4c5;
+  padding: 15px;
+  margin-right: 15px;
+}
+
+figure.main-image {
+  background: white;
+  max-width: 96%;
+}
+
+figure.section-image {
   float: left;
   background: #00b4c5;
   padding: 15px;
