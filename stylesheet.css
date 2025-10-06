@@ -19,7 +19,7 @@ h1#article-title {
   color:#0b78e6;
   text-align: left;
   padding-top: 12px;
-  padding-bottom: 8px;
+  padding-bottom: 0px;
 }
 
 h2.article-section {
@@ -27,7 +27,7 @@ h2.article-section {
   font-weight: 800;
   color:#0b78e6;
   padding-top: 12px;
-  padding-bottom: 8px
+  padding-bottom: 0px;
 }
 
 p {
