@@ -19,8 +19,6 @@ h1#article-title {
   color:#0b78e6;
   text-align: left;
   padding-left: 12px;
-  margin-top: 10px;
-  margin-bottom: 5px;
 }
 
 h2.article-section {
@@ -28,8 +26,6 @@ h2.article-section {
   font-weight: 800;
   color:#0b78e6;
   padding-left: 12px;
-  margin-top: 10px;
-  margin-bottom: 5px;
 }
 
 p {
@@ -85,7 +81,7 @@ nav ul li a:hover {
   background-color: #00b4c5;
 }
 
-nav ul li a:visited {
+head nav ul li a:visited {
   color: darkblue;
 }
 
