@@ -27,6 +27,7 @@ h2.article-section {
   color:#0b78e6;
   padding: 12px;
 }
+
 p {
   font-family: calibri;
   color: #0b78e6;
@@ -51,16 +52,9 @@ figcaption {
   font-size: 16pt;
 }
 
-p img {
-  float: left;
-  background: #00b4c5;
-  padding: 15px;
-  margin-right: 15px;
-}
-
 img.main-image {
-  background: white;
-  max-width: 96%;
+float: right;
+width: 600px;
 }
 
 img.section-image {
@@ -122,5 +116,6 @@ footer nav ul li a{
 }
 
 footer nav ul li a:hover {
+  background-color: #0b78e6;
   text-decoration: underline;
 }
