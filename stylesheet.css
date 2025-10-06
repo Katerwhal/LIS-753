@@ -18,14 +18,16 @@ h1#article-title {
   font-size: 20pt;
   color:#0b78e6;
   text-align: left;
-  padding: 12px;
+  padding-top: 12px;
+  padding-bottom: 8px;
 }
 
 h2.article-section {
   font-size: 14pt;
   font-weight: 800;
   color:#0b78e6;
-  padding: 12px;
+  padding-top: 12px;
+  padding-bottom: 8px
 }
 
 p {
