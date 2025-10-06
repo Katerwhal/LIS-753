@@ -4,27 +4,25 @@ a#skip-link:hover {
 
 h1#main-title {
   font-weight: 600;
-  font-size: large;
+  font-size: 30pt;
   background: #314ff0;
   color: white;
   text-align: center;
-  font-family: arial;
+  font-family:Arial, Helvetica, sans-serif;
 }
 
 h1#article-title {
   background: white;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 800;
-  font-size: medium;
+  font-size: 20pt;
   color:#0b78e6;
   text-align: left;
-  margin-top: 10px;
 }
 
 h2.article-section {
-  font-size: small;
+  font-size: 14pt;
   font-weight: 800;
-  margin-top: 10px;
 }
 p {
   font-family: calibri;
@@ -69,7 +67,7 @@ figure.section-image {
   margin-right: 15px;
 }
 
-nav ul {
+header nav ul {
   background-color: lightblue;
   list-style-type: none;
   margin: 0;
@@ -81,11 +79,11 @@ nav ul {
   justify-content: center;
 }
 
-ul li {
+header nav ul li {
   float:left;
 }
 
-ul li a {
+header nav ul li a {
   display:block;
   color: #0b78e6;
   text-align: center;
@@ -93,16 +91,23 @@ ul li a {
   text-decoration: none;
 }
 
-ul li a:hover {
+header nav ul li a:hover {
   background-color: #00b4c5;
 }
 
-footer {
+footer#page-footer {
   background-color: #314ff0;
   color: white;
   justify-content: center;
 }
-footer nav {
+
+footer#page-footer p {
+  background-color: #314ff0;
+  color: white;
+  justify-content: center;
+}
+
+footer#page-footer nav {
   list-style-type: none;
   margin: 0;
   padding: 10;
@@ -111,9 +116,9 @@ footer nav {
   justify-content: center;
 }
 
-footer nav ul {
+footer#page-footer nav ul {
   background-color: #314ff0;
 }
-footer nav ul li a:hover {
+footer#page-footer nav ul li a:hover {
   text-decoration: underline;
 }
