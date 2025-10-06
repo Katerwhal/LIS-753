@@ -67,7 +67,7 @@ figure.section-image {
   margin-right: 15px;
 }
 
-header nav ul {
+head nav ul {
   background-color: lightblue;
   list-style-type: none;
   margin: 0;
@@ -79,11 +79,11 @@ header nav ul {
   justify-content: center;
 }
 
-header nav ul li {
+head nav ul li {
   float:left;
 }
 
-header nav ul li a {
+head nav ul li a {
   display:block;
   color: #0b78e6;
   text-align: center;
@@ -91,7 +91,7 @@ header nav ul li a {
   text-decoration: none;
 }
 
-header nav ul li a:hover {
+head nav ul li a:hover {
   background-color: #00b4c5;
 }
 
