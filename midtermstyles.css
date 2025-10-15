@@ -14,6 +14,10 @@ figure img {
     width: 50%;
 }
 
+figcaption {
+    text-align: center;
+}
+
 p {
 font-size: 12pt;
 font-weight: 400;
@@ -25,7 +29,7 @@ font-size: 30pt;
 font-weight: 600;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 text-align: center;
-border-bottom: 2px #f5708d;
+background-color: #bbdd9a;
 }
 
 h2#location {
