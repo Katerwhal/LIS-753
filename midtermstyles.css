@@ -25,11 +25,12 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 }
 
 h1#main-title {
-font-size: 30pt;
+font-size: 36pt;
 font-weight: 600;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 text-align: center;
-background-color: #bbdd9a;
+border-top: 2px solid #f5708d;
+border-bottom: 2px solid #f5708d;
 }
 
 h2#location {
