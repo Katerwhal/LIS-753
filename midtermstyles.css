@@ -8,6 +8,12 @@ body {
   margin: 0 auto;
 }
 
+header img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
 p {
 font-size: 12pt;
 font-weight: 400;
@@ -94,7 +100,6 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 
 footer#page-footer {
     text-align: center;
-    padding: 32px 0px;
     margin-top: 64px;
     background-color: #94d5c1;
 }
@@ -112,6 +117,7 @@ footer p {
     font-weight: 400;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
+    padding: 0;
 }
 
 ul li {
