@@ -112,6 +112,12 @@ footer#page-footer {
     justify-content: center;
 }
 
+footer ul {
+    text-align: center;
+    display: inline-block;
+    padding: 0;
+}
+
 footer ul li {
     list-style-type: none;
     font-size: 12pt;
