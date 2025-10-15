@@ -29,7 +29,6 @@ font-size: 24pt;
 font-weight: 800;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 padding: 12px;
-max-width: 50%;
 }
 
 h2#hours {
@@ -38,7 +37,6 @@ font-size: 24pt;
 font-weight: 800;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 padding: 12px;
-max-width: 70%;
 }
 
 h2#ticket {
@@ -47,7 +45,6 @@ font-size: 24pt;
 font-weight: 800;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 padding: 12px;
-max-width: 40%;
 }
 
 h2#price {
@@ -104,10 +101,17 @@ footer#page-footer {
 }
 
 footer ul li {
-    text-decoration: none;
+    list-style-type: none;
     font-size: 12pt;
     font-weight: 400;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer p {
+    font-size: 12pt;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
 }
 
 ul li {
