@@ -107,6 +107,7 @@ footer#page-footer {
     text-align: center;
     margin-top: 64px;
     background-color: #94d5c1;
+    padding: 32px 0;
 }
 
 footer ul li {
@@ -122,7 +123,7 @@ footer p {
     font-weight: 400;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
-    padding: 0;
+    padding-left: 12px;
 }
 
 ul li {
