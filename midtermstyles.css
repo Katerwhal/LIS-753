@@ -25,17 +25,13 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 margin: 0 50px;
 }
 
-h2#location ul li {
-border-left: 5px solid #f7ca9b;
-}
-
 h1#main-title {
 font-size: 36pt;
 font-weight: 600;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 text-align: center;
-border-top: 2px solid #f5708d;
-border-bottom: 2px solid #f5708d;
+border-top: 3px solid #f5708d;
+border-bottom: 3px solid #f5708d;
 }
 
 h2#location {
