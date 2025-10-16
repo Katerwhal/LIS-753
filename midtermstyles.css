@@ -25,7 +25,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 margin: 0 50px;
 }
 
-h2#location ul {
+h2#location ul li {
 border-left: 5px solid #f7ca9b;
 }
 
