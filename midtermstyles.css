@@ -22,7 +22,7 @@ p {
 font-size: 12pt;
 font-weight: 400;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-padding-left: 12px;
+padding-left: 30px;
 }
 
 h1#main-title {
@@ -39,7 +39,7 @@ background-color: #f7ca9b;
 font-size: 24pt;
 font-weight: 800;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-padding: 12px;
+padding: 20px;
 }
 
 h2#hours {
@@ -102,7 +102,7 @@ h3 {
 font-size: 16pt;
 font-weight: 600;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
-padding-left: 12px;
+padding-left: 30px;
 }
 
 footer#page-footer {
@@ -133,6 +133,7 @@ footer p {
     font-weight: 400;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
+    padding-left: 0;
 }
 
 main ul li {
@@ -141,4 +142,5 @@ main ul li {
     font-weight: 400;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     max-width: 70%;
+    padding-left: 30px;
 }
