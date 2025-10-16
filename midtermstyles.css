@@ -22,7 +22,7 @@ p {
 font-size: 12pt;
 font-weight: 400;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-padding-left: 30px;
+margin: 0 40px;
 }
 
 h1#main-title {
@@ -39,7 +39,7 @@ background-color: #f7ca9b;
 font-size: 24pt;
 font-weight: 800;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-padding: 20px;
+padding: 30px;
 }
 
 h2#hours {
@@ -47,7 +47,7 @@ background-color: #bbdd9a;
 font-size: 24pt;
 font-weight: 800;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-padding: 12px;
+padding: 30px;
 }
 
 h2#ticket {
@@ -55,7 +55,7 @@ background-color: #c1abf2;
 font-size: 24pt;
 font-weight: 800;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-padding: 12px;
+padding: 30px;
 }
 
 h2#price {
@@ -63,7 +63,7 @@ background-color: #94d5c1;
 font-size: 24pt;
 font-weight: 800;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-padding: 12px;
+padding: 30px;
 }
 
 h2#why {
@@ -71,7 +71,7 @@ background-color: #eeafc6;
 font-size: 24pt;
 font-weight: 800;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-padding: 12px;
+padding: 30px;
 }
 
 h2#days {
@@ -79,7 +79,7 @@ background-color: #bbcef6;
 font-size: 24pt;
 font-weight: 800;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-padding: 12px;
+padding: 30px;
 }
 
 h2#traffic {
@@ -87,7 +87,7 @@ background-color: #f5708d;
 font-size: 24pt;
 font-weight: 800;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-padding: 12px;
+padding: 30px;
 }
 
 h2#misc {
@@ -95,7 +95,7 @@ background-color: #9ab6ee;
 font-size: 24pt;
 font-weight: 800;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-padding: 12px;
+padding: 30px;
 }
 
 h3 {
@@ -143,4 +143,5 @@ main ul li {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     max-width: 70%;
     padding-left: 30px;
+    list-style-position: inside;
 }
