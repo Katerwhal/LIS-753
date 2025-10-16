@@ -11,7 +11,7 @@ body {
 figure img {
     display: block;
     margin: auto;
-    width: 50%;
+    max-width: 50%;
 }
 
 figcaption {
@@ -22,6 +22,7 @@ p {
 font-size: 12pt;
 font-weight: 400;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+padding-left: 12px;
 }
 
 h1#main-title {
@@ -101,6 +102,7 @@ h3 {
 font-size: 16pt;
 font-weight: 600;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+padding-left: 12px;
 }
 
 footer#page-footer {
@@ -133,9 +135,10 @@ footer p {
     text-align: center;
 }
 
-ul li {
+main ul li {
     list-style-type: square;
     font-size: 12pt;
     font-weight: 400;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    max-width: 50%;
 }
