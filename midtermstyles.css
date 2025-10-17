@@ -11,7 +11,7 @@ body {
 
 div#parent {
     display:flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 div#location {
