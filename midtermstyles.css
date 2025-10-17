@@ -10,15 +10,16 @@ body {
 }
 
 div#location {
-display: inline-block;
+display: flex;
+justify-content: center;
 max-width: 40%;
 margin: 0 auto;
 vertical-align:top;
-padding-left: 20%;
 }
 
 div#hours {
-display: inline-block;
+display: flex;
+justify-content: center;
 max-width: 40%;
 margin: 0 auto;
 vertical-align:top
