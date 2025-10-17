@@ -13,7 +13,8 @@ div#location {
 display: inline-block;
 max-width: 40%;
 margin: 0 auto;
-vertical-align:top
+vertical-align:top;
+padding-left: 20%;
 }
 
 div#hours {
