@@ -15,13 +15,13 @@ div#parent {
 }
 
 div#location {
-width: 40%;
+max-width: 40%;
 margin: 0 auto;
 vertical-align:top;
 }
 
 div#hours {
-width: 40%;
+max-width: 40%;
 margin: 0 auto;
 vertical-align:top
 }
