@@ -9,17 +9,18 @@ body {
   clear:both;
 }
 
+div#parent {
+    display:flex;
+    justify-content: center;
+}
+
 div#location {
-display:inline-block;
-justify-content: center;
 max-width: 40%;
 margin: 0 auto;
 vertical-align:top;
 }
 
 div#hours {
-display: inline-block;
-justify-content: center;
 max-width: 40%;
 margin: 0 auto;
 vertical-align:top
