@@ -8,6 +8,14 @@ body {
   margin: 0 auto;
 }
 
+div#location {
+    float: left;
+}
+
+div#hours {
+    float: right;
+}
+
 figure img {
     display: block;
     margin: auto;
@@ -40,6 +48,7 @@ font-size: 24pt;
 font-weight: 800;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 padding: 15px 40px;
+max width: 40%;
 }
 
 h2#hours {
@@ -48,6 +57,7 @@ font-size: 24pt;
 font-weight: 800;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 padding: 15px 40px;
+max-width: 40%;
 }
 
 h2#ticket {
