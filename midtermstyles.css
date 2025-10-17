@@ -10,7 +10,7 @@ body {
 }
 
 div#location {
-display: flex;
+display: inline-flex;
 justify-content: center;
 max-width: 40%;
 margin: 0 auto;
@@ -18,7 +18,7 @@ vertical-align:top;
 }
 
 div#hours {
-display: flex;
+display: inline-flex;
 justify-content: center;
 max-width: 40%;
 margin: 0 auto;
