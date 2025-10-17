@@ -10,7 +10,7 @@ body {
 }
 
 div#location {
-display: inline-block
+display: inline-block;
 max-width: 40%;
 margin: 0 auto;
 }
