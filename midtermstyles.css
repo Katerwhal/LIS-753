@@ -8,6 +8,18 @@ body {
   margin: 0 auto;
 }
 
+div#location {
+float: left;
+max-width: 40%;
+margin: 0 auto;
+}
+
+div#hours {
+float: left;
+max-width: 40%;
+margin: 0 auto;
+}
+
 figure img {
     display: block;
     margin: auto;
