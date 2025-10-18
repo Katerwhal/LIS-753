@@ -15,15 +15,15 @@ div#parent {
 }
 
 div#location {
-max-width: 35%;
+max-width: 50%;
 margin: 0 auto;
 vertical-align:top;
 }
 
 div#hours {
-max-width: 35%;
+max-width: 50%;
 margin: 0 auto;
-vertical-align:top
+vertical-align:top;
 }
 
 figure img {
@@ -44,7 +44,7 @@ margin: 0 40px;
 }
 
 div#parent ul li {
-    max-width: fit-content;
+    max-width: 90%;
 }
 
 h2#location p {
