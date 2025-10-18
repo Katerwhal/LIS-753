@@ -16,7 +16,7 @@ div#parent {
 
 div#location {
 max-width: 45%;
-margin: 0 auto 0 10px;
+margin: 0 10px 0 auto;
 vertical-align:top;
 }
 
