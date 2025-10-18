@@ -53,12 +53,6 @@ h2#location p {
     padding: 0;
 }
 
-h2#hours p {
-    text-align: center;
-    margin: 0;
-    padding: 0;
-}
-
 h1#main-title {
 font-size: 36pt;
 font-weight: 600;
@@ -116,22 +110,6 @@ font-size: 24pt;
 font-weight: 800;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 padding: 15px 40px;
-}
-
-h2#traffic {
-background-color: #f5708d;
-font-size: 24pt;
-font-weight: 800;
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-padding: 15px 50px;
-}
-
-h2#misc {
-background-color: #9ab6ee;
-font-size: 24pt;
-font-weight: 800;
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-padding: 15px 50px;
 }
 
 h3 {
