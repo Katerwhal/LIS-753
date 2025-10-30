@@ -74,11 +74,8 @@ p img,
 figure img {
   max-width: 100%;
   height: auto;
-}
-
-p img {
+  margin: 30px;
   justify-content: center;
-  margin: 12px auto 0 auto;
 }
 
 nav ul {
