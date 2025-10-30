@@ -107,9 +107,9 @@ ul li a {
   color:#314ff0;
 }
 
-@media all and (max-width:421px) {
+@media all and (max-width:419px) {
   ul li a {
-    justify-content: center;
+text-align: center;
   }
 }
 
