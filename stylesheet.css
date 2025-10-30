@@ -107,6 +107,12 @@ ul li a {
   color:#314ff0;
 }
 
+@media all and (max-width:421px) {
+  ul li a {
+    text-align: center;
+  }
+}
+
 header nav ul li a:hover {
   background-color: #00b4c5;
 }
