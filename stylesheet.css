@@ -109,7 +109,7 @@ ul li a {
 
 @media all and (max-width:421px) {
   ul li a {
-    text-align: center;
+    justify-content: center;
   }
 }
 
