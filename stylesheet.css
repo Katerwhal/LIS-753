@@ -78,14 +78,12 @@ figure img {
 
 p img {
   justify-content: center;
-  margin-top: 12px;
+  margin: 12px auto 0 auto;
 }
 
 nav ul {
   list-style-type: none;
   overflow:hidden;
-  justify-content: space-evenly;
-  text-align: center;
 }
 
 @media all and (min-width: 420px) {
@@ -97,6 +95,7 @@ Justify-content: center;
 
 ul li {
   float:left;
+  text-align: center;
 }
 
 ul li a {
