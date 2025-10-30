@@ -47,23 +47,40 @@ figure {
   float: right;
 }
 
+@media all and (min-width: 811px) {
+figure img {
+  max-width: 100%;
+  height: auto;
+}
+}
+
 figcaption {
   color: Black;
   font-size: 16pt;
 }
 
+@media all and (min-width: 811px) {
 p img {
+  max-width: 100%;
+  height: auto;
   float: left;
   background: #00b4c5;
   padding: 15px;
   margin: 30px;
 }
+}
 
 nav ul {
   list-style-type: none;
   overflow:hidden;
-  display: flex;
-  justify-content: center;
+}
+
+@media all and (min-width: 376px) {
+Nav ul {
+Display: flex;
+Justify-content: center;
+Gap: 30px;
+}
 }
 
 ul li {
