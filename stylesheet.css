@@ -70,12 +70,18 @@ p img {
 }
 }
 
+p img,
+figure img {
+  max-width: 100%;
+  height: auto;
+}
+
 nav ul {
   list-style-type: none;
   overflow:hidden;
 }
 
-@media all and (min-width: 376px) {
+@media all and (min-width: 420px) {
 Nav ul {
 Display: flex;
 Justify-content: center;
