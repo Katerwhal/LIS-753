@@ -84,15 +84,12 @@ p img {
 nav ul {
   list-style-type: none;
   overflow:hidden;
-  text-align: center;
-  justify-content: center;
 }
 
 @media all and (min-width: 420px) {
 Nav ul {
 Display: flex;
 Justify-content: center;
-Gap: 30px;
 }
 }
 
