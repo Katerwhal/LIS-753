@@ -84,6 +84,8 @@ p img {
 nav ul {
   list-style-type: none;
   overflow:hidden;
+  justify-content: space-evenly;
+  text-align: center;
 }
 
 @media all and (min-width: 420px) {
