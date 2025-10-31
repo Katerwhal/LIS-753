@@ -111,11 +111,12 @@ ul li a {
 
 @media all and (max-width:419px) {
   ul li {
-text-align: center;
+text-align: left;
 float: none;
   }
  nav ul li a {
     text-decoration: none;
+    text-align: left;
   }
 }
 
