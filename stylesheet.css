@@ -113,6 +113,7 @@ ul li a {
   ul li {
 text-align: center;
 float: none;
+padding: 0;
   }
 }
 
