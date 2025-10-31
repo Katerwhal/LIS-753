@@ -66,7 +66,7 @@ p img {
   float: left;
   background: #00b4c5;
   padding: 15px;
-  margin: 30px;
+  margin: auto;
 }
 }
 
@@ -79,8 +79,9 @@ figure img {
 
 p img {
   justify-content: center;
-  margin: 30px;
+  margin: auto;
   padding: 15px;
+  background: #00b4c5;
 }
 
 nav ul {
@@ -109,7 +110,7 @@ ul li a {
 }
 
 @media all and (max-width:419px) {
-  ul li a {
+  ul li {
 text-align: center;
 float: none;
   }
