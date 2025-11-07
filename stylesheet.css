@@ -2,6 +2,15 @@ a#skip-link:hover {
   color:#00b4c5
 }
 
+body.dark-mode {
+  background: #010101;
+  color: #ffffff;
+}
+
+body.dark-mode button {
+  background-color: #ffffff;
+}
+
 h1#main-title {
   font-weight: 600;
   font-size: 30pt;
