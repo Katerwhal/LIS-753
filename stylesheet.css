@@ -3,7 +3,7 @@ a#skip-link:hover {
 }
 
 body.dark-mode {
-  background: #010101;
+  background: #314ff0;
   color: #ffffff;
 }
 
@@ -25,7 +25,6 @@ h1#article-title {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 800;
   font-size: 20pt;
-  color:#0b78e6;
   text-align: left;
   padding-left: 12px;
 }
@@ -33,13 +32,11 @@ h1#article-title {
 h2.article-section {
   font-size: 14pt;
   font-weight: 800;
-  color:#0b78e6;
   padding-left: 12px;
 }
 
 p {
   font-family: calibri;
-  color: #314ff0;
   padding-left: 12px;
 }
 
@@ -115,7 +112,6 @@ ul li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  color:#314ff0;
 }
 
 @media all and (max-width:419px) {
@@ -123,6 +119,7 @@ ul li a {
 text-align: left;
 float: none;
   }
+
  nav ul li a {
     text-decoration: none;
     text-align: left;
