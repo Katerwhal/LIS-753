@@ -27,9 +27,6 @@ h1#main-title {
 div.pet-photos figure {
     background-color: #f5403f;
     padding: 15px;
-}
-
-div.pet-photos figure img {
     max-width: 30%;
 }
 
