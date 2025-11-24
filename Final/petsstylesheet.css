@@ -30,7 +30,7 @@ div.pet-photos figure {
 }
 
 .pet-photos figure img {
-    max-width: 30%;
+    max-width: 300px;
 }
 
 main ul li {
