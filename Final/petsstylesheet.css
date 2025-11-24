@@ -18,12 +18,17 @@ h1#main-title {
   clear:both;
 }
 
-figure.pet-photos {
-    display: flex;
+.pet-photos {
+    display: inline-flex;
+    padding: 10px;
+    justify-content: center;
+}
+
+div.pet-photos figure {
     background-color: #f5403f;
 }
 
-figure.pet-photos img {
+div.pet-photos figure img {
     max-width: 20%;
 }
 
