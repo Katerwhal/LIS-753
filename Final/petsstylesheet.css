@@ -21,12 +21,13 @@ h1#main-title {
 .pet-photos {
     display: inline-flex;
     padding: 10px;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 div.pet-photos figure {
     background-color: #f5403f;
     padding: 10px;
+    margin: 0 auto;
 }
 
 .pet-photos figure img {
@@ -89,19 +90,11 @@ header nav {
 }
 
 @media all and (min-width: 811px) {
-p img {
+img {
   max-width: 100%;
   height: auto;
   float: left;
-  background: #00b4c5;
   padding: 15px;
   margin: 15px;
-}
-}
-
-@media all and (min-width: 811px) {
-figure img {
-  max-width: 100%;
-  height: auto;
 }
 }
