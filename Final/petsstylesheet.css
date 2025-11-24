@@ -42,3 +42,48 @@ main ul li {
     padding: 5px 0px 5px 40px;
     list-style-position: inside;
 }
+
+nav ul {
+  list-style-type: none;
+  overflow:hidden;
+}
+
+@media all and (min-width: 420px) {
+Nav ul {
+Display: flex;
+Justify-content: center;
+}
+}
+
+ul li {
+  float: left;
+  text-align: center;
+}
+
+ul li a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+@media all and (max-width:419px) {
+  ul li {
+text-align: left;
+float: none;
+  }
+
+ nav ul li a {
+    text-decoration: none;
+    text-align: left;
+  }
+}
+
+header nav ul li a:hover {
+  background-color: #f5403f;
+}
+
+header nav {
+  border-top: 2px solid #00899a;
+  border-bottom: 2px solid #00899a;
+}
