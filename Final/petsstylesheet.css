@@ -1,0 +1,7 @@
+div#pet-photos {
+    display: inline-block;
+}
+
+figure.pet-photos {
+    max-width: 30%;
+}
