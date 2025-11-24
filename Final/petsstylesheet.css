@@ -21,7 +21,7 @@ h1#main-title {
 .pet-photos {
     display: inline-flex;
     padding: 10px;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 
 div.pet-photos figure {
@@ -32,6 +32,10 @@ div.pet-photos figure {
 
 .pet-photos figure img {
     max-width: 250px;
+}
+
+.pet-photos figcaption {
+    text-align: center;
 }
 
 main ul li {
