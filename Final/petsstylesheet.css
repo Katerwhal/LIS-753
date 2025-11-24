@@ -1,14 +1,14 @@
 body {
-    background-color: #b1e1ea;
+    background: #b1e1ea;
 }
 
 h1#main-title {
-font-size: 36pt;
-font-weight: 600;
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-text-align: center;
-border-top: 3px solid #00899a;
-border-bottom: 3px solid #00899a;
+    font-size: 36pt;
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    border-top: 3px solid #00899a;
+    border-bottom: 3px solid #00899a;
 }
 
 .container {
@@ -19,7 +19,8 @@ border-bottom: 3px solid #00899a;
 }
 
 figure.pet-photos {
-    display: inline-block;
+    display: flex;
+    background-color: #f5403f;
 }
 
 figure.pet-photos img {
