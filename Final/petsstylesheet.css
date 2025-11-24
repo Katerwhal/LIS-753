@@ -114,3 +114,10 @@ figure img {
     height: auto;
     justify-content: center;
 }
+
+@media all and (min-width: 420px) {
+div figure {
+Display: flex;
+Justify-content: center;
+}
+}
