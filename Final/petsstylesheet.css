@@ -1,7 +1,7 @@
-div#pet-photos {
+figure.pet-photos {
     display: inline-block;
 }
 
-figure.pet-photos {
+figure.pet-photos img {
     max-width: 30%;
 }
