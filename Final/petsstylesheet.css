@@ -26,11 +26,11 @@ h1#main-title {
 
 div.pet-photos figure {
     background-color: #f5403f;
-    padding: 15px;
+    padding: 10px;
 }
 
 .pet-photos figure img {
-    max-width: 300px;
+    max-width: 250px;
 }
 
 main ul li {
@@ -86,4 +86,22 @@ header nav ul li a:hover {
 header nav {
   border-top: 2px solid #00899a;
   border-bottom: 2px solid #00899a;
+}
+
+@media all and (min-width: 811px) {
+p img {
+  max-width: 100%;
+  height: auto;
+  float: left;
+  background: #00b4c5;
+  padding: 15px;
+  margin: 15px;
+}
+}
+
+@media all and (min-width: 811px) {
+figure img {
+  max-width: 100%;
+  height: auto;
+}
 }
