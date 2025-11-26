@@ -1,5 +1,7 @@
 body {
   background: #b1e1ea;
+  margin-bottom: 50px;
+  clear:both
 }
 
 h1#main-title {
@@ -27,10 +29,8 @@ main p {
   display: inline-flex;
   padding: 10px;
   justify-content: center;
-  align-items: center;
   flex-wrap: wrap;
   max-height: 100vh;
-  margin:auto;
 }
 
 div.pet-photos figure {
