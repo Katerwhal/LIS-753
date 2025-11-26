@@ -131,6 +131,7 @@ p img.baby {
   margin: 15px;
   padding: 15px;
   float: left;
+  max-width: 300px;
 }
 
 p img.recent {
@@ -138,6 +139,7 @@ p img.recent {
   margin: 15px;
   padding: 15px;
   float: right;
+  max-width: 300px;
 }
 
 figure img,
