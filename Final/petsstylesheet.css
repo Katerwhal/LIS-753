@@ -1,19 +1,19 @@
 body {
-    background: #b1e1ea;
+  background: #b1e1ea;
 }
 
 h1#main-title {
-    font-size: 36pt;
-    font-weight: 600;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-    background-color: #00899a;
+  font-size: 36pt;
+  font-weight: 600;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  background-color: #00899a;
 }
 
 main p {
-    font-size: 16pt;
-    font-weight: 400;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 16pt;
+  font-weight: 400;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .container {
@@ -24,35 +24,36 @@ main p {
 }
 
 .pet-photos {
-    display: inline-flex;
-    padding: 10px;
-    justify-content: space-around;
-    flex-wrap: wrap;
+  display: inline-flex;
+  padding: 10px;
+  justify-content: space-around;
+  flex-wrap: wrap;
 }
 
 div.pet-photos figure {
-    background-color: #f5403f;
-    padding: 10px;
-    margin: 0 auto;
+  background-color: #f5403f;
+  padding: 10px;
+  margin: 0 auto;
 }
 
 .pet-photos figure img {
-    max-width: 200px;
+  max-width: 200px;
 }
 
 .pet-photos figcaption {
-    text-align: center;
-    font-size: 20pt;
+  text-align: center;
+  font-size: 20pt;
+  float: left;
 }
 
 main ul li {
-    list-style-type: none;
-    font-size: 12pt;
-    font-weight: 400;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    max-width: 70%;
-    padding: 5px 0px 5px 40px;
-    list-style-position: inside;
+  list-style-type: none;
+  font-size: 12pt;
+  font-weight: 400;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  max-width: 70%;
+  padding: 5px 0px 5px 40px;
+  list-style-position: inside;
 }
 
 nav ul {
@@ -61,10 +62,10 @@ nav ul {
 }
 
 @media all and (min-width: 420px) {
-Nav ul {
-Display: flex;
-Justify-content: center;
-}
+  Nav ul {
+    Display: flex;
+    Justify-content: center;
+  }
 }
 
 ul li {
@@ -81,15 +82,16 @@ ul li a {
 
 @media all and (max-width:419px) {
   ul li {
-text-align: left;
-float: none;
-  }
-
- nav ul li a {
-    text-decoration: none;
     text-align: left;
+    float: none;
   }
 }
+
+nav ul li a {
+  text-decoration: none;
+  text-align: left;
+ }
+
 
 header nav ul li a:hover {
   background-color: #f5403f;
@@ -101,24 +103,23 @@ header nav {
 }
 
 @media all and (min-width: 811px) {
+  figure img {
+    max-width: 100%;
+    height: auto;
+    padding: 10px;
+    margin: 10px;
+  }
+}
+
 figure img {
   max-width: 100%;
   height: auto;
-  padding: 10px;
-  margin: 10px;
-}
-}
-
-figure img {
-    max-width: 100%;
-    height: auto;
-    justify-content: center;
+  justify-content: center;
 }
 
 @media all and (min-width: 420px) {
-div figure {
-Display: flex;
-Justify-content: center;
-float: left;
-}
+  div figure {
+    Display: flex;
+    Justify-content: center;
+  }
 }
