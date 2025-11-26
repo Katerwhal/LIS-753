@@ -29,7 +29,7 @@ main p {
   justify-content: center;
   flex-wrap: wrap;
   max-height: 100vh;
-  margin: auto;
+  padding-bottom: 100px;
 }
 
 div.pet-photos figure {
