@@ -35,13 +35,13 @@ main p {
 }
 
 @media all and (max-width: 1030px) and (min-width:615px) {
-  .pet-photos {
+  p img,  .pet-photos {
     margin-bottom: 200px;
   }
 }
 
 @media all and (max-width: 615px) {
-  .pet-photos {
+  p img  .pet-photos {
     margin-bottom: 500px;
   }
 }
@@ -164,7 +164,6 @@ footer#page-footer {
   margin-top: 64px;
   background-color: #00899a;
   padding: 32px 0;
-  height: 80px;
   flex-shrink: 0;
 }
 
