@@ -26,7 +26,6 @@ main p {
 .pet-photos {
   display: inline-flex;
   padding: 10px;
-  justify-content: space-evenly;
   flex-wrap: wrap;
   max-height: 100vh;
 }
@@ -49,6 +48,7 @@ div.pet-photos figure {
   margin: 0 auto;
   flex-flow: column;
   border: solid 2px #7c0604;
+  justify-content: space-evenly;
 }
 
 .pet-photos figure img {
