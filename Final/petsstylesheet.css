@@ -29,6 +29,7 @@ main p {
   justify-content: center;
   flex-wrap: wrap;
   max-height: 100vh;
+  margin-bottom: 200px;
 }
 
 div.pet-photos figure {
@@ -135,6 +136,7 @@ footer#page-footer {
     overflow: hidden;
     justify-content: center;
     position: relative;
+    height: 150px;
 }
 
 footer p {
