@@ -23,6 +23,9 @@ main p {
   max-width: 1020px;
   margin: 0 auto;
   clear:both;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
 }
 
 .pet-photos {
