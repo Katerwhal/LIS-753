@@ -25,10 +25,10 @@ main p {
 
 .pet-photos {
   display: inline-flex;
-  flex-flow: row;
   padding: 10px;
   justify-content: center;
   flex-wrap: wrap;
+  align-content: center;
 }
 
 div.pet-photos figure {
@@ -46,7 +46,7 @@ div.pet-photos figure {
 .pet-photos figcaption {
   text-align: center;
   font-size: 20pt;
-  align-self: center
+  align-self: center;
 }
 
 main ul li {
