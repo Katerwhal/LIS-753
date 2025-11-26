@@ -36,14 +36,14 @@ main p {
   justify-content: center;
 }
 
-@media all and (max-width: 1030px) and (min-width:615px) {
-  p img,  .pet-photos {
+@media all and (max-width: 1020px) and (min-width:615px) {
+  p img, .pet-photos {
     margin-bottom: 200px;
   }
 }
 
 @media all and (max-width: 615px) {
-  p img  .pet-photos {
+  p img, .pet-photos {
     margin-bottom: 500px;
   }
 }
