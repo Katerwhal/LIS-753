@@ -119,5 +119,6 @@ figure img {
 div figure {
 Display: flex;
 Justify-content: center;
+float: left;
 }
 }
