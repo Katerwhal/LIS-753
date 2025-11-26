@@ -35,6 +35,7 @@ div.pet-photos figure {
   background-color: #f5403f;
   padding: 10px;
   margin: 0 auto;
+  flex-flow: column;
 }
 
 .pet-photos figure img {
