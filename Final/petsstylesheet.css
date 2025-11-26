@@ -28,7 +28,7 @@ main p {
   padding: 10px;
   justify-content: center;
   flex-wrap: wrap;
-  align-content: center;
+  max-height: 100vh;
 }
 
 div.pet-photos figure {
