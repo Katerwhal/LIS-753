@@ -163,7 +163,7 @@ footer#page-footer {
     padding: 32px 0;
     overflow: hidden;
     justify-content: center;
-    position: relative;
+    position: absolute;
     height: 80px;
 }
 
