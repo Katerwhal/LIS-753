@@ -43,7 +43,7 @@ div.pet-photos figure {
 .pet-photos figcaption {
   text-align: center;
   font-size: 20pt;
-  float: left;
+  position: absolute;
 }
 
 main ul li {
