@@ -27,6 +27,7 @@ main p {
     display: inline-flex;
     padding: 10px;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 div.pet-photos figure {
@@ -118,6 +119,5 @@ figure img {
 div figure {
 Display: flex;
 Justify-content: center;
-flex-wrap: wrap;
 }
 }
