@@ -1,5 +1,8 @@
 body {
   background: #b1e1ea;
+  margin: 0;
+  padding: 0;
+  display: flex;
 }
 
 h1#main-title {
