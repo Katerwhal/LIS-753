@@ -12,6 +12,12 @@ h1#main-title {
   background-color: #00899a;
 }
 
+h2#subtitle {
+  font-size: 24pt;
+  font-weight: 800;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 main p {
   font-size: 16pt;
   font-weight: 400;
