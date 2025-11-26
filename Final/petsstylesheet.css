@@ -126,7 +126,22 @@ header nav {
   }
 }
 
-figure img {
+p img.baby {
+  background-color: #f5403f;
+  margin: 15px;
+  padding: 15px;
+  float: left;
+}
+
+p img.recent {
+  background-color: #f5403f;
+  margin: 15px;
+  padding: 15px;
+  float: right;
+}
+
+figure img,
+p img {
   max-width: 100%;
   height: auto;
   justify-content: center;
