@@ -45,7 +45,7 @@ div.pet-photos figure {
 .pet-photos figcaption {
   text-align: center;
   font-size: 20pt;
-  align-self: flex-start;
+  align-self: center
 }
 
 main ul li {
