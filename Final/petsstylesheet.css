@@ -27,7 +27,7 @@ main p {
   display: inline-flex;
   flex-flow: row;
   padding: 10px;
-  justify-content: space-around;
+  justify-content: center;
   flex-wrap: wrap;
 }
 
@@ -36,6 +36,7 @@ div.pet-photos figure {
   padding: 10px;
   margin: 0 auto;
   flex-flow: column;
+  border: solid 2px #7c0604;
 }
 
 .pet-photos figure img {
