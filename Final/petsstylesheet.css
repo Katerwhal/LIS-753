@@ -32,7 +32,6 @@ main p {
   justify-content: center;
   flex-wrap: wrap;
   max-height: 100vh;
-  margin-bottom: 300px;
 }
 
 div.pet-photos figure {
