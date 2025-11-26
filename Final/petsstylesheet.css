@@ -1,7 +1,5 @@
 body {
   background: #b1e1ea;
-  margin-bottom: 50px;
-  clear:both
 }
 
 h1#main-title {
@@ -21,7 +19,7 @@ main p {
 .container {
   width: 95%;
   max-width: 1020px;
-  margin: 0 auto;
+  margin: 0 auto 50px auto;
   clear:both;
 }
 
