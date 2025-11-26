@@ -33,13 +33,13 @@ main p {
 
 @media all and (max-width: 1030px) and (min-width:615px) {
   .pet-photos {
-    margin-bottom: 150px;
+    margin-bottom: 200px;
   }
 }
 
 @media all and (max-width: 615px) {
   .pet-photos {
-    margin-bottom: 300px;
+    margin-bottom: 350px;
   }
 }
 
